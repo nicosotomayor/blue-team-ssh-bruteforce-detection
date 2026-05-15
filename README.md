@@ -4,7 +4,7 @@
 
 Este proyecto documenta un laboratorio Blue Team orientado a la detección y análisis de un ataque de fuerza bruta contra el servicio SSH en un entorno controlado.
 
-El objetivo fue simular el trabajo de un analista SOC, identificando actividad sospechosa mediante análisis de logs, clasificación con MITRE ATT&CK y diseño de lógica de detección aplicable a SIEM.
+El objetivo fue replicar un escenario de análisis SOC, identificando patrones de autenticación anómalos mediante análisis de logs, clasificación con MITRE ATT&CK y diseño de lógica de detección aplicable a SIEM.
 
 ---
 
