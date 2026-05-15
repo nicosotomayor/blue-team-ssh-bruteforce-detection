@@ -65,7 +65,7 @@ El objetivo fue replicar un escenario de análisis SOC, identificando patrones d
 
 ### Logs del sistema
 
-![Logs](evidence/ssh-failed-logins.png)  
+![Logs](evidence/ssh-failed-loginss.png)  
 
 ---
 
